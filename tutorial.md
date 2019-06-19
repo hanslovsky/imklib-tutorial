@@ -1,0 +1,11 @@
+ - Kotlin
+   - operator overloading
+   - extension functions
+   - default values
+ - imklib
+   - use kotlin features for numpy like experience for ImgLib2
+   - available extensions
+   - exercises:
+     - add extension to support
+       - RandomAccessibleInterval.rotate
+ - picocli is cool!!
