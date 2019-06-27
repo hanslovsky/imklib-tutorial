@@ -60,6 +60,11 @@ conda create -n learnathon
 conda activate learnathon
 conda install -c conda-forge python=3.7 ipywidgets beakerx
 ```
+After installation (and possibly activation of the conda environment), navigate to the notebooks directory and start beakerx:
+```
+cd imklib-tutorial/notebooks
+beakerx
+```
 
 For a complete list of all available extension I recommend browsing the extension [source code](https://github.com/hanslovsky/imklib/tree/master/src/main/kotlin/net/imglib2/imklib/extensions). Additional examples are available in the [imklib repository](https://github.com/hanslovsky/imklib/tree/master/src/test/kotlin/net/imglib2/imklib/examples), including a few [examples](https://github.com/hanslovsky/imklib/tree/master/examples/kscript) using [kscript](https://github.com/holgerbrandl/kscript). I recommend [IntelliJ IDEA](https://www.jetbrains.com/idea) for browsing and working with Kotlin code. 
 
