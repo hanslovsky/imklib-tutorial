@@ -1,4 +1,6 @@
-# imklib tutorial
+# imklib tutorial (DEPRECATED)
+
+**Deprecation notice**: This project was exploratory work. For current development, see [saalfeldlab/imklib2](https://github.com/saalfeldlab/imklib2).
 
 [imklib](https://github.com/hanslovsky/imklib-tutorial/tree/solution) is an experimental library to explore the use of Kotlin extension functions and operator overloading for a NumPy like user experience for the [ImgLib2](https://github.com/imglib/imglib2) Java multi-dimensional image processing library. The library itself is highly experimental and undocumented but demonstrates that tensor-wise operations are possible in ImgLib2/the JVM world with Kotlin. With imklib, you can simply write code like this:
 
